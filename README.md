@@ -23,7 +23,7 @@
 - You Can Download My APK at My Release 
 - Soon will Release On Play Store
 ## FAQ 
-- **Contact me at my socidal media**
+- **Contact me at my social media**
 ## Support
 - Website : <a href="https://lunatictech.org" target="_blank">`lunatictech.org`</a> <br>
 - Instagram : <a href="https://instagram.com/_nugrah.p" target="_blank">`_nugrah.p</a>
