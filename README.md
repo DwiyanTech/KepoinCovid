@@ -10,8 +10,10 @@
 - RecylerView 
 - AsyncHttpLoopJ
 ----
-## Clone
+## Clone Project
 - Clone This Repository if you want to make this your reference 
+- Edit ConfigApi and Insert Your ApiKey at <a href="https://newsapi.org/" target="_blank">`newsapi.org/`</a> 
+-  `apikey : "YOUR_APIKEY"`
 ---
 ## Screenshoot
 <img width="250px" height ="490px" src="https://raw.githubusercontent.com/DwiyanTech/KepoinCovid/master/SS_1.png">&nbsp;&nbsp;&nbsp;
