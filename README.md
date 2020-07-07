@@ -12,7 +12,7 @@
 ----
 ## Clone Project
 - Clone This Repository if you want to make this your reference 
-- Edit ConfigApi and Insert Your ApiKey at <a href="https://newsapi.org/" target="_blank">`newsapi.org/`</a> 
+- Edit ConfigApi and Insert Your ApiKey at <a href="https://newsapi.org/" target="_blank">`newsapi.org`</a> 
 -  `apikey : "YOUR_APIKEY"`
 ---
 ## Screenshoot
