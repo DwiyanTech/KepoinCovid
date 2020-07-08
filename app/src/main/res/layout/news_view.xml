@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_margin="15dp"
+    android:layout_gravity="center"
+    android:layout_height="120dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="14dp">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        app:backgroundTint="#99FFFFFF"
+        app:srcCompat="@android:drawable/ic_menu_save" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/news_item_photo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            app:srcCompat="@drawable/img_bg_2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:background="#80000000"
+            android:layout_height="40dp"
+            android:layout_marginTop="80dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_card"
+                android:gravity="center"
+                android:layout_margin="7dp"
+                android:textStyle="bold"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:textColor="@color/colorWhite"
+                android:layout_height="wrap_content"
+                android:text="@string/text_card" />
+
+        </LinearLayout>
+
+
+
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>

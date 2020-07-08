@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kepoin Covid</string>
+    <string name="copyright">Kepoin Covid v1.0</string>
+    <string name="artikel_header"> Kepoin Artikel</string>
+    <string name="nomor_kasus">00.00</string>
+    <string name="text_positif">Pasien Terkonfirmasi Positif</string>
+    <string name="text_sembuh">Pasien Terkonfirmasi Sembuh</string>
+    <string name="text_meninggal">Pasien Terkonfirmasi Meninggal</string>
+    <string name="text_note">Pasien terkonfirmasi terhitung dari seluruh dunia</string>
+    <string name="text_home">Beranda</string>
+    <string name="text_info">News App</string>
+    <string name="text_card">Seorang kesandung batu</string>
+    <string name="text_save">Saved News</string>
+
+</resources>
