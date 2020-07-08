@@ -10,7 +10,7 @@
 - RecylerView 
 - AsyncHttpLoopJ
 ---
-## DATA SOURCE
+## Data Source
 - Covid19 <a href="https://covid19api.com">`covid19api.com`</a>
 - Newsapi <a href="https://newsapi.org">`newsapi.org`</a>
 ---
