@@ -9,7 +9,11 @@
 - Room Persistence
 - RecylerView 
 - AsyncHttpLoopJ
-----
+---
+## DATA SOURCE
+- Covid19 <a href="https://covid19api.com">`covid19api.com`</a>
+- Newsapi <a href="https://newsapi.org">`newsapi.org`</a>
+---
 ## Clone Project
 - Clone This Repository if you want to make this your reference 
 - Edit ConfigApi and Insert Your ApiKey at <a href="https://newsapi.org/" target="_blank">`newsapi.org`</a> 
