@@ -1,5 +1,5 @@
 # KepoinCovid
-
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 > This project is protected by MIT LICENSE 
 ---
 **PLUGINS USED**
