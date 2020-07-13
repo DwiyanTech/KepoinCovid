@@ -1,6 +1,6 @@
 # KepoinCovid
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
-![GitHub](https://img.shields.io/github/license/dwiyantech/kepoincovid)
+![GitHub](https://img.shields.io/github/license/dwiyantech/kepoincovid?color=blue&style=for-the-badge)
 > This project is protected by MIT LICENSE 
 ---
 **PLUGINS USED**
